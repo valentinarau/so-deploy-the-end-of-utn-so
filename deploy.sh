@@ -162,4 +162,7 @@ do
   make -C "$REPONAME/$i/$STRUCTURE" "$RULE"
 done
 
+echo -e "\n\n${bold}Getting tests for deploy${normal}..."
+git clone "https://github.com/sisoputnfrba/geck-pruebas.git"
+
 echo -e "\n\n${bold}Deploy done!${normal}\n\n"
