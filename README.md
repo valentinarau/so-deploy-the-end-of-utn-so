@@ -2,10 +2,6 @@
 
 so-deploy es una herramienta para facilitar el proceso de deploy de los proyectos.
 
-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
-
-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
-
 ## Uso
 
 ```
